@@ -1,0 +1,250 @@
+continent_code,continent_name,country_iso_code,country_name
+AF,Africa,RW,Rwanda
+AF,Africa,SO,Somalia
+AS,Asia,YE,Yemen
+AS,Asia,IQ,Iraq
+AS,Asia,SA,Saudi Arabia
+AS,Asia,IR,Iran
+EU,Europe,CY,Cyprus
+AF,Africa,TZ,Tanzania
+AS,Asia,SY,Syria
+AS,Asia,AM,Armenia
+AF,Africa,KE,Kenya
+AF,Africa,CD,Congo
+AF,Africa,DJ,Djibouti
+AF,Africa,UG,Uganda
+AF,Africa,CF,Central African Republic
+AF,Africa,SC,Seychelles
+AS,Asia,JO,Hashemite Kingdom of Jordan
+AS,Asia,LB,Lebanon
+AS,Asia,KW,Kuwait
+AS,Asia,OM,Oman
+AS,Asia,QA,Qatar
+AS,Asia,BH,Bahrain
+AS,Asia,AE,United Arab Emirates
+AS,Asia,IL,Israel
+AS,Asia,TR,Turkey
+AF,Africa,ET,Ethiopia
+AF,Africa,ER,Eritrea
+AF,Africa,EG,Egypt
+AF,Africa,SD,Sudan
+EU,Europe,GR,Greece
+AF,Africa,BI,Burundi
+EU,Europe,EE,Estonia
+EU,Europe,LV,Latvia
+AS,Asia,AZ,Azerbaijan
+EU,Europe,LT,Republic of Lithuania
+EU,Europe,SJ,Svalbard and Jan Mayen
+AS,Asia,GE,Georgia
+EU,Europe,MD,Republic of Moldova
+EU,Europe,BY,Belarus
+EU,Europe,FI,Finland
+EU,Europe,AX,Åland
+EU,Europe,UA,Ukraine
+EU,Europe,MK,Macedonia
+EU,Europe,HU,Hungary
+EU,Europe,BG,Bulgaria
+EU,Europe,AL,Albania
+EU,Europe,PL,Poland
+EU,Europe,RO,Romania
+EU,Europe,XK,Kosovo
+AF,Africa,ZW,Zimbabwe
+AF,Africa,ZM,Zambia
+AF,Africa,KM,Comoros
+AF,Africa,MW,Malawi
+AF,Africa,LS,Lesotho
+AF,Africa,BW,Botswana
+AF,Africa,MU,Mauritius
+AF,Africa,SZ,Swaziland
+AF,Africa,RE,Réunion
+AF,Africa,ZA,South Africa
+AF,Africa,YT,Mayotte
+AF,Africa,MZ,Mozambique
+AF,Africa,MG,Madagascar
+AS,Asia,AF,Afghanistan
+AS,Asia,PK,Pakistan
+AS,Asia,BD,Bangladesh
+AS,Asia,TM,Turkmenistan
+AS,Asia,TJ,Tajikistan
+AS,Asia,LK,Sri Lanka
+AS,Asia,BT,Bhutan
+AS,Asia,IN,India
+AS,Asia,MV,Maldives
+AS,Asia,IO,British Indian Ocean Territory
+AS,Asia,NP,Nepal
+AS,Asia,MM,Myanmar [Burma]
+AS,Asia,UZ,Uzbekistan
+AS,Asia,KZ,Kazakhstan
+AS,Asia,KG,Kyrgyzstan
+AN,Antarctica,TF,French Southern Territories
+AS,Asia,CC,Cocos [Keeling] Islands
+OC,Oceania,PW,Palau
+AS,Asia,VN,Vietnam
+AS,Asia,TH,Thailand
+AS,Asia,ID,Indonesia
+AS,Asia,LA,Laos
+AS,Asia,TW,Taiwan
+AS,Asia,PH,Philippines
+AS,Asia,MY,Malaysia
+AS,Asia,CN,China
+AS,Asia,HK,Hong Kong
+AS,Asia,BN,Brunei
+AS,Asia,MO,Macao
+AS,Asia,KH,Cambodia
+AS,Asia,KR,Republic of Korea
+AS,Asia,JP,Japan
+AS,Asia,KP,North Korea
+AS,Asia,SG,Singapore
+OC,Oceania,CK,Cook Islands
+OC,Oceania,TL,East Timor
+EU,Europe,RU,Russia
+AS,Asia,MN,Mongolia
+OC,Oceania,AU,Australia
+AS,Asia,CX,Christmas Island
+OC,Oceania,MH,Marshall Islands
+OC,Oceania,FM,Federated States of Micronesia
+OC,Oceania,PG,Papua New Guinea
+OC,Oceania,SB,Solomon Islands
+OC,Oceania,TV,Tuvalu
+OC,Oceania,NR,Nauru
+OC,Oceania,VU,Vanuatu
+OC,Oceania,NC,New Caledonia
+OC,Oceania,NF,Norfolk Island
+OC,Oceania,NZ,New Zealand
+OC,Oceania,FJ,Fiji
+AF,Africa,LY,Libya
+AF,Africa,CM,Cameroon
+AF,Africa,SN,Senegal
+AF,Africa,CG,Republic of the Congo
+EU,Europe,PT,Portugal
+AF,Africa,LR,Liberia
+AF,Africa,CI,Ivory Coast
+AF,Africa,GH,Ghana
+AF,Africa,GQ,Equatorial Guinea
+AF,Africa,NG,Nigeria
+AF,Africa,BF,Burkina Faso
+AF,Africa,TG,Togo
+AF,Africa,GW,Guinea-Bissau
+AF,Africa,MR,Mauritania
+AF,Africa,BJ,Benin
+AF,Africa,GA,Gabon
+AF,Africa,SL,Sierra Leone
+AF,Africa,ST,São Tomé and Príncipe
+EU,Europe,GI,Gibraltar
+AF,Africa,GM,Gambia
+AF,Africa,GN,Guinea
+AF,Africa,TD,Chad
+AF,Africa,NE,Niger
+AF,Africa,ML,Mali
+AF,Africa,TN,Tunisia
+EU,Europe,ES,Spain
+AF,Africa,MA,Morocco
+EU,Europe,MT,Malta
+AF,Africa,DZ,Algeria
+EU,Europe,FO,Faroe Islands
+EU,Europe,DK,Denmark
+EU,Europe,IS,Iceland
+EU,Europe,GB,United Kingdom
+EU,Europe,CH,Switzerland
+EU,Europe,SE,Sweden
+EU,Europe,NL,Netherlands
+EU,Europe,AT,Austria
+EU,Europe,BE,Belgium
+EU,Europe,DE,Germany
+EU,Europe,LU,Luxembourg
+EU,Europe,IE,Ireland
+EU,Europe,MC,Monaco
+EU,Europe,FR,France
+EU,Europe,AD,Andorra
+EU,Europe,LI,Liechtenstein
+EU,Europe,JE,Jersey
+EU,Europe,IM,Isle of Man
+EU,Europe,GG,Guernsey
+EU,Europe,SK,Slovak Republic
+EU,Europe,CZ,Czech Republic
+EU,Europe,NO,Norway
+EU,Europe,VA,Vatican City
+EU,Europe,SM,San Marino
+EU,Europe,IT,Italy
+EU,Europe,SI,Slovenia
+EU,Europe,ME,Montenegro
+EU,Europe,HR,Croatia
+EU,Europe,BA,Bosnia and Herzegovina
+AF,Africa,AO,Angola
+AF,Africa,NA,Namibia
+AF,Africa,SH,Saint Helena
+NA,North America,BB,Barbados
+AF,Africa,CV,Cape Verde
+SA,South America,GY,Guyana
+SA,South America,GF,French Guiana
+SA,South America,SR,Suriname
+NA,North America,PM,Saint Pierre and Miquelon
+NA,North America,GL,Greenland
+SA,South America,PY,Paraguay
+SA,South America,UY,Uruguay
+SA,South America,BR,Brazil
+SA,South America,FK,Falkland Islands
+AN,Antarctica,GS,South Georgia and the South Sandwich Islands
+NA,North America,JM,Jamaica
+NA,North America,DO,Dominican Republic
+NA,North America,CU,Cuba
+NA,North America,MQ,Martinique
+NA,North America,BS,Bahamas
+NA,North America,BM,Bermuda
+NA,North America,AI,Anguilla
+NA,North America,TT,Trinidad and Tobago
+NA,North America,KN,Saint Kitts and Nevis
+NA,North America,DM,Dominica
+NA,North America,AG,Antigua and Barbuda
+NA,North America,LC,Saint Lucia
+NA,North America,TC,Turks and Caicos Islands
+NA,North America,AW,Aruba
+NA,North America,VG,British Virgin Islands
+NA,North America,VC,Saint Vincent and the Grenadines
+NA,North America,MS,Montserrat
+NA,North America,MF,Saint Martin
+NA,North America,BL,Saint-Barthélemy
+NA,North America,GP,Guadeloupe
+NA,North America,GD,Grenada
+NA,North America,KY,Cayman Islands
+NA,North America,BZ,Belize
+NA,North America,SV,El Salvador
+NA,North America,GT,Guatemala
+NA,North America,HN,Honduras
+NA,North America,NI,Nicaragua
+NA,North America,CR,Costa Rica
+SA,South America,VE,Venezuela
+SA,South America,EC,Ecuador
+SA,South America,CO,Colombia
+NA,North America,PA,Panama
+NA,North America,HT,Haiti
+SA,South America,AR,Argentina
+SA,South America,CL,Chile
+SA,South America,BO,Bolivia
+SA,South America,PE,Peru
+NA,North America,MX,Mexico
+OC,Oceania,PF,French Polynesia
+OC,Oceania,PN,Pitcairn Islands
+OC,Oceania,KI,Kiribati
+OC,Oceania,TK,Tokelau
+OC,Oceania,TO,Tonga
+OC,Oceania,WF,Wallis and Futuna
+OC,Oceania,WS,Samoa
+OC,Oceania,NU,Niue
+OC,Oceania,MP,Northern Mariana Islands
+OC,Oceania,GU,Guam
+NA,North America,PR,Puerto Rico
+NA,North America,VI,U.S. Virgin Islands
+OC,Oceania,UM,U.S. Minor Outlying Islands
+OC,Oceania,AS,American Samoa
+NA,North America,CA,Canada
+NA,North America,US,United States
+AS,Asia,PS,Palestine
+AS,Asia,,
+EU,Europe,,
+EU,Europe,RS,Serbia
+AN,Antarctica,AQ,Antarctica
+NA,North America,SX,Sint Maarten
+NA,North America,CW,Curaçao
+NA,North America,BQ,"Bonaire, Sint Eustatius, and Saba"
+AF,Africa,SS,South Sudan
